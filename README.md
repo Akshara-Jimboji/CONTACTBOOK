@@ -1,12 +1,12 @@
 Contact Book Web App
 
-Features
+Features:
 - Add contact
 - Delete contact
 - Clear all contacts
 - Card UI design
 
-Tech Used
+Tech Used:
 HTML
 CSS
 JavaScript
